@@ -12,7 +12,7 @@ Agp:El Puerto de gráfico acelerado es una especificación de bus que proporcion
 
 Memoria RAM:Es la memoria de la computadora que almacena la información que un programa necesita mientras se ejecuta.
 
-##conectores
+## conectores
 
 usb 2.0=USB es la sigla de Universal Serial Bus.Se trata de un concepto de la informática para nombrar al puerto que permite conectar periféricos a una computadora.Estas permiten transferir datos, imágenes, vídeos y archivos en general a una velocidad de 60 Mb por segundo.
 
