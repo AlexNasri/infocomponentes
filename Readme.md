@@ -1,32 +1,56 @@
 # COMPONENTES PC
 
-**Placa base**=Es una tarjeta de circuito impreso a la que se conectan los componentes que constituyen la computadora.
+**-Placa base**=Es una tarjeta de circuito impreso a la que se conectan los componentes que constituyen la computadora.
+
+**-Chipset**=Es un circuito integrado que se encarga de la comunicación entre la CPU, la RAM, el almacenamiento y otros periféricos.En este caso es Intel® H81 Express Chipset.
+
+![imagenPlacabaseHD](https://github.com/AlexNasri/infocomponentes/blob/main/fotos%20pr%C3%A1ctica%20hardware/placa%20base%20god.png)
+
+![imagenPlacabase](https://github.com/AlexNasri/infocomponentes/blob/main/fotos%20pr%C3%A1ctica%20hardware/placabasen%C3%BAmeros.png)
  
-**Ranura DIMM**=Memoria USB o memoria RAM que consiste en una serie de circuitos integrados de memoria de acceso aleatorio dinámico montados en una placa de circuito impreso.
+**1.Ranura DIMM**=Memoria USB o memoria RAM que consiste en una serie de circuitos integrados de memoria de acceso aleatorio dinámico montados en una placa de circuito impreso.
 
-**Disco Duro**=Dispositivo de almacenamiento de datos no volátil que emplea un sistema de grabación magnética para almacenar datos digitales de forma rápida y segura.
+**2 & 3.Ranura PCI**=Desarrollado por Intel Corporation,es un bus de alta velocidad estándar del sector que se encuentra en casi todas las computadoras de escritorio.
+En este caso la 2 es una ranura PCI Express x16 slots,y la 3 son dos pequeñas ranuras PCI Express x1 slots.
 
-**Tarjeta de red**= Se encarga de la preparación, la transferencia y el control de los datos que se reciben y envían desde el ordenador a Internet o a otros equipos que comparten la misma red.
+**4.Pila**=Fuente de energía del BIOS.
 
-**Fuente de alimentación**=Dispositivo que se utiliza para convertir la corriente de la red eléctrica en una forma de energía adecuada para los componentes de un dispositivo o sistema electrónico.
+**5.Socket**=El socket o zócalo es la zona de la placa base donde se instala la CPU, posicionada al costado de los slots de memoria RAM y justo encima de las ranuras PCI-Express.
+
+
+
+
+**-Disco Duro**=Dispositivo de almacenamiento de datos no volátil que emplea un sistema de grabación magnética para almacenar datos digitales de forma rápida y segura.
+
+![imagenDiscoduro](https://github.com/AlexNasri/infocomponentes/blob/main/fotos%20pr%C3%A1ctica%20hardware/Discco%20durosata.jpg)
+![imagenDiscoduro](https://github.com/AlexNasri/infocomponentes/blob/main/fotos%20pr%C3%A1ctica%20hardware/disco%20duro.jpeg)
+
+**-Tarjeta de red**= Se encarga de la preparación, la transferencia y el control de los datos que se reciben y envían desde el ordenador a Internet o a otros equipos que comparten la misma red.
+
+![imagentarjetared](https://github.com/AlexNasri/infocomponentes/blob/main/fotos%20pr%C3%A1ctica%20hardware/tarjeta%20red.jpeg)
+
+
+**-Fuente de alimentación**=Dispositivo que se utiliza para convertir la corriente de la red eléctrica en una forma de energía adecuada para los componentes de un dispositivo o sistema electrónico.
+
+![imagentarjetared](
   
-**CPU(Procesador)**=Una CPU, o unidad central de procesamiento, es un componente de hardware y la unidad computacional central de un servidor.
+**-CPU(Procesador)**=Una CPU, o unidad central de procesamiento, es un componente de hardware y la unidad computacional central de un servidor.
 
-**Disipador CPU**= Un elemento o pieza cuya misión es extraer el calor que genera el procesador.
+![imagentarjetared](
 
-**Chipset**=Es un circuito integrado que se encarga de la comunicación entre la CPU, la RAM, el almacenamiento y otros periféricos.En este caso es Intel® H81 Express Chipset.
+**-Disipador CPU**= Un elemento o pieza cuya misión es extraer el calor que genera el procesador.
 
-**Pila**=fuente de energía del BIOS
+![imagentarjetared](
 
-**Ranura PCI**=Desarrollado por Intel Corporation,es un bus de alta velocidad estándar del sector que se encuentra en casi todas las computadoras de escritorio.
+
 
 **Ranura AGP**=El Puerto de gráfico acelerado es una especificación de bus que proporciona una conexión directa entre el adaptador de gráficos y la memoria.
 
 **Memoria RAM**=Es la memoria de la computadora que almacena la información que un programa necesita mientras se ejecuta.
 
-**Socket**=El socket o zócalo es la zona de la placa base donde se instala la CPU, posicionada al costado de los slots de memoria RAM y justo encima de las ranuras PCI-Express.
 
-## conectores
+
+## CONECTORES
 
 **1.usb 2.0**=USB es la sigla de Universal Serial Bus.Se trata de un concepto de la informática para nombrar al puerto que permite conectar periféricos a una computadora.Estas permiten transferir datos, imágenes, vídeos y archivos en general a una velocidad de 60 Mb por segundo.
 
